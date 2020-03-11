@@ -1,0 +1,15 @@
+2020-01-14 12:22:29,786 INFO [root] [__init__.py(<module>:8)] - info....
+2020-01-14 12:24:36,971 INFO [root] [__init__.py(<module>:8)] - info....
+2020-01-14 15:19:22,493 INFO [root] [test_login.py(test_login_success:22)] - json_data={'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'a9e021f1-30a5-40ef-8c03-356486856632'}
+2020-01-14 15:53:06,100 INFO [root] [test_login.py(test_username_is_not_exist:36)] - json_data={'success': True, 'code': 10000, 'message': '操作成功！', 'data': '0db77d8d-308c-4fa4-837d-93f4451384fb'}
+2020-01-14 15:53:30,479 INFO [root] [test_login.py(test_username_is_not_exist:36)] - json_data={'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-01-14 16:23:18,487 INFO [root] [test_login.py(test_login_success:20)] - json_data={'success': True, 'code': 10000, 'message': '操作成功！', 'data': '0d30f2b9-70a6-4c1c-ab66-4e8e3fdb32ff'}
+2020-01-14 16:23:23,498 INFO [root] [test_login.py(test_login_success:20)] - json_data={'success': True, 'code': 10000, 'message': '操作成功！', 'data': '05b3e4af-72eb-4a62-a135-355ee48c43d9'}
+2020-01-14 16:23:23,529 INFO [root] [test_login.py(test_username_is_not_exist:40)] - json_data={'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-01-14 16:47:05,037 INFO [root] [test_login.py(test_pwd_is_error:60)] - json_data={'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-01-14 16:49:36,668 INFO [root] [test_login.py(test_req_param_is_null:74)] - json_data={'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-01-14 16:50:58,257 INFO [root] [test_login.py(test_req_param_is_null:74)] - json_data={'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-01-14 16:51:27,416 INFO [root] [test_login.py(test_req_param_is_null:74)] - json_data={'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-01-14 16:54:53,960 INFO [root] [test_login.py(test_req_param_is_null:74)] - json_data={'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}
+2020-01-14 17:55:21,281 INFO [root] [test_login.py(test_login_success:21)] - json_data={'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'b7f637e9-f9bd-459b-97ab-77d77825727c'}
+2020-01-14 18:00:40,037 INFO [root] [test_login.py(test_login_success:23)] - json_data={'success': True, 'code': 10000, 'message': '操作成功！', 'data': '3e3eb07f-2202-496e-b975-65c81fd48bc4'}

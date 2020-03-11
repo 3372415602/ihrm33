@@ -1,0 +1,38 @@
+[
+  {
+    "desc": "登录成功",
+    "mobile": "13800000002",
+    "pwd": "123456",
+    "status_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功"
+  },
+  {
+    "desc": "账号不存在",
+    "mobile": "13888889919",
+    "pwd": "123456",
+    "status_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  {
+    "desc": "密码错误",
+    "mobile": "13800000002",
+    "pwd": "error",
+    "status_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  {
+    "desc": "请求参数为空",
+    "mobile": null,
+    "pwd": null,
+    "status_code": 200,
+    "success": false,
+    "code": 99999,
+    "message": "系统繁忙"
+  }
+]
